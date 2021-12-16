@@ -27,7 +27,7 @@ git clone https://github.com/fakhirula/kopi-mantan
 - Create a new Pull Request
 
 ### Note
-- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead which is in the root directory.
+- If you want to make some changes in the CSS style. Don't edit the `.css` file, use the ```bash npm run build:css``` file instead which is in the root directory.
 
 ## License
 kopi-mantan is under MIT License.
