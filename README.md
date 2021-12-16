@@ -9,8 +9,6 @@
 ![npm version](https://badge.fury.io/js/yarn.svg)
 </p>
 
-![screenshot](https://user-images.githubusercontent.com/61000091/135702974-738adf81-af75-4fd8-aeda-a02100362405.jpg)
-
 ## Installation
 1. Clone this repository or download zip
 ```bash
