@@ -1,4 +1,4 @@
-<h1 align="center">kopi-mantan Portofolio</h1>
+<h1 align="center">kopi-mantan</h1>
 <p align="center">kopi-mantan is a Landing Page website built using TailwindCSS with some customization. Please use it for learning media, made using the TailwindCSS.</p>
 <p align="center">
 
