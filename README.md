@@ -20,7 +20,7 @@ git clone https://github.com/fakhirula/kopi-mantan
 
 - Fork it ( https://github.com/fakhirula/kopi-mantan/fork )
 - Create your feature branch (`git checkout -b my-new-feature`)
-- Commit your changes (`git commit -am 'Add some feature'`)
+- Commit your changes (`git commit -m 'Add some feature'`)
 - Push to the branch (`git push origin my-new-feature`)
 - Create a new Pull Request
 
