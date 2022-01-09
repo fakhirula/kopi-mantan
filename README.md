@@ -3,10 +3,10 @@
 <p align="center">
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-green.svg?style=flat-square)](#contributors-)
-![GitHub last commit](https://img.shields.io/github/last-commit/fakhirula/kopi-mantan.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/fakhirula/kopi-mantan)
-[![License](https://img.shields.io/github/license/fakhirula/kopi-mantan)](LICENSE)
-![npm version](https://badge.fury.io/js/yarn.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/fakhirula/kopi-mantan.svg?style=flat-square)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/fakhirula/kopi-mantan?style=flat-square)
+[![License](https://img.shields.io/github/license/fakhirula/kopi-mantan?style=flat-square)](LICENSE)
+![npm version](https://badge.fury.io/js/yarn.svg?style=flat-square)
 </p>
 
 ## Installation
